@@ -1,73 +1,67 @@
-<!-- Header com animação em tom pastel -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bfa2db&height=120&section=header"/>
+<!-- Animação de cabeçalho -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cbc3e3&height=120&section=header"/>
 
-<!-- Texto animado com cor pastel -->
+<!-- Animação com frases -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BFA2DB&center=true&vCenter=true&width=1000&lines=I'm+Israel+Alves.;IT+Technical+Student.;AI+%26+Machine+Learning+enthusiast." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=cbc3e3&center=true&vCenter=true&multiline=true&width=1000&lines=I+am+Israel+Alves.;I+study+IT.;AI+%26+Machine+Learning+enthusiast." alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me  
+## 📌 About Me
 
-Hello! My name is **Israel Alves**.  
-I'm currently studying a **Technical IT course (Informática)** and dedicating myself to becoming a skilled developer.  
-My main areas of interest are **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
-
-I love solving logic challenges and constantly improving my understanding of programming and AI theory.
+Hello! I'm **Israel Alves**, currently studying **IT (Technical Level)** and deeply passionate about **Artificial Intelligence**.  
+I enjoy challenging myself with logical problems and constantly seek to improve my programming and analytical skills.  
+I have a growing interest in **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
 
 ---
 
-## 💻 Technologies I'm Learning  
+## Technologies & Tools
 
-### 🧩 Programming Languages  
+### Programming Language
+
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### 🧪 Libraries & Frameworks  
+### Libraries & Frameworks
+
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-1A76D2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Langchain-5B3E9C?style=for-the-badge&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
 ---
 
-## 🎯 Goals
+## Goals
 
-- Master Python, NumPy, Pandas, and Scikit-learn  
-- Build real-world projects in AI and Data Science  
-- Explore the theoretical foundations of AI and programming paradigms  
-- Deepen my knowledge in Computer Vision and NLP  
+- Deepen my knowledge in **Python** and **AI frameworks**
+- Build real-world **Machine Learning** and **Data Science** projects
+- Contribute to open-source initiatives and collaborate with the tech community
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=radical" width="47%" />
 </div>
 
----
-
-## 🏆 Trophies  
+<br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=radical&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-<!-- Footer em tom pastel -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bfa2db&height=120&section=footer"/>
+<!-- Rodapé com a mesma cor da animação inicial -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cbc3e3&height=120&section=footer"/>
