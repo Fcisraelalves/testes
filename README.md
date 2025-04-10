@@ -11,19 +11,19 @@ I have a growing interest in **Machine Learning**, **Computer Vision**, and **Na
 ### Programming Language
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=black&labelColor=000000&color=000000&label=" alt="Python"/>
 </p>
 
 ### Libraries & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-3776AB?style=for-the-badge&logo=numpy&logoColor=black" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/OpenCV-3776AB?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/HuggingFace-3776AB?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logoColor=black" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/TensorFlow-3776AB?style=for-the-badge&logo=tensorflow&logoColor=black" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=black&labelColor=000000&color=000000&label=" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=black&labelColor=000000&color=000000&label=" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=black&labelColor=000000&color=000000&label=" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=black&labelColor=000000&color=000000&label=" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=000000&color=000000&label=" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=black&labelColor=000000&color=000000&label=" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=000000&color=000000&label=" alt="TensorFlow"/>
 </p>
 
 ---
