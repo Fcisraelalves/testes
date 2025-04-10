@@ -1,10 +1,10 @@
-<!-- Header com animação roxa -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header"/>
+<!-- Header com animação em tom pastel -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bfa2db&height=120&section=header"/>
 
-<!-- Texto animado com Typing SVG e cor personalizada -->
+<!-- Texto animado com cor pastel -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8E44AD&center=true&vCenter=true&width=1000&lines=I'm+Israel+Alves.;IT+Technical+Student.;AI+%26+Machine+Learning+enthusiast." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BFA2DB&center=true&vCenter=true&width=1000&lines=I'm+Israel+Alves.;IT+Technical+Student.;AI+%26+Machine+Learning+enthusiast." alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,14 +22,14 @@ I love solving logic challenges and constantly improving my understanding of pro
 
 ## 💻 Technologies I'm Learning  
 
-### Programming Languages  
+### 🧩 Programming Languages  
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-### Libraries & Frameworks  
+### 🧪 Libraries & Frameworks  
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -43,7 +43,7 @@ I love solving logic challenges and constantly improving my understanding of pro
 
 ---
 
-## Goals
+## 🎯 Goals
 
 - Master Python, NumPy, Pandas, and Scikit-learn  
 - Build real-world projects in AI and Data Science  
@@ -69,5 +69,5 @@ I love solving logic challenges and constantly improving my understanding of pro
 
 ---
 
-<!-- Footer com a mesma cor roxa -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=footer"/>
+<!-- Footer em tom pastel -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bfa2db&height=120&section=footer"/>
