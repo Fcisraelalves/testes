@@ -1,4 +1,4 @@
-## About Me
+## 📌 About Me
 
 Hello! I'm **Israel Alves**, currently studying **IT (Technical Level)** and deeply passionate about **Artificial Intelligence**.  
 I enjoy challenging myself with logical problems and constantly seek to improve my programming and analytical skills.  
@@ -6,15 +6,15 @@ I have a growing interest in **Machine Learning**, **Computer Vision**, and **Na
 
 ---
 
-## Technologies & Tools
+## 🧰 Technologies & Tools
 
-### Programming Language
+### 🐍 Programming Language
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### Libraries & Frameworks
+### 📚 Libraries & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-3776AB?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -22,13 +22,13 @@ I have a growing interest in **Machine Learning**, **Computer Vision**, and **Na
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/OpenCV-3776AB?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/HuggingFace-3776AB?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Langchain-3776AB?style=for-the-badge&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/TensorFlow-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
 ---
 
-## Goals
+## 🎯 Goals
 
 - Deepen my knowledge in **Python** and **AI frameworks**
 - Build real-world **Machine Learning** and **Data Science** projects
@@ -36,7 +36,7 @@ I have a growing interest in **Machine Learning**, **Computer Vision**, and **Na
 
 ---
 
-## GitHub Stats & Trophies
+## 📊 GitHub Stats & Trophies
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical" width="47%" />
